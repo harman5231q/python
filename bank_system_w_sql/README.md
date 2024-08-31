@@ -47,4 +47,4 @@ Before running the application, ensure you have the following installed:
 - **MySQL**: A running instance of MySQL to store the banking data.
 - **Required Python Libraries**: Install the required Python libraries by running:
   ```bash
- pip install mysql-connector-python
+   pip install mysql-connector-python
